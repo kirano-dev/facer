@@ -1,0 +1,5 @@
+.idea
+/fake-*
+/uploads
+__pycache__
+encodings.txt
